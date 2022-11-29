@@ -171,7 +171,7 @@ if (isset($_GET['file'])) {
 ?file=php://filter/resource=flag.php
 ```
 
-![ez_php_flag.php](https://nssctf.wdf.ink/img/zack/ez_php_flag.php.jpg)
+![ez_php_fake_flag](https://nssctf.wdf.ink/img/zack/ez_php_fake_flag.jpg)
 
 提示**real_flag_is_in_'flag'**
 
@@ -183,7 +183,7 @@ if (isset($_GET['file'])) {
 
 得到flag
 
-![ez_php_flag](https://nssctf.wdf.ink/img/zack/ez_php_flaag.jpg)
+![ez_php_flag](https://nssctf.wdf.ink/img/zack/ez_php_flag.jpg)
 
 **非预期解**
 
