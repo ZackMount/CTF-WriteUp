@@ -123,21 +123,21 @@ wqh[]=1&dsy[]=0
 
 但额外还有一张配图，试试把它丢进某度搜索
 
-![where am i_search](D:\CTF Tools\SWPU NSS新生赛 2022\web_images\where am i_search.jpg)
+![where am i_search](https://nssctf.wdf.ink/img/zack/where_am_i_search.jpg)
 
 依次查找，最后在这篇文章里找到了所在的位置
 
-![where am i_locate](https://nssctf.wdf.ink/img/zack/where am i_locate.jpg)
+![where am i_locate](https://nssctf.wdf.ink/img/zack/where_am_i_locate.jpg)
 
-![where am i_position](https://nssctf.wdf.ink/img/zack/where am i_position.jpg)
+![where am i_position](https://nssctf.wdf.ink/img/zack/where_am_i_position.jpg)
 
 所以这张图所在地址是**锦江区暑袜北一街145号**，然后再次利用某度搜索
 
-![where am i_phone](https://nssctf.wdf.ink/img/zack/where am i_phone.jpg)
+![where am i_phone](https://nssctf.wdf.ink/img/zack/where_am_i_phone.jpg)
 
 确定了我们要输入的11位数就是这个电话号码**02886112888**，提交，得到flag
 
-![where am i_ending](https://nssctf.wdf.ink/img/zack/where am i_ending.jpg)
+![where am i_ending](https://nssctf.wdf.ink/img/zack/where_am_i_ending.jpg)
 
 
 
