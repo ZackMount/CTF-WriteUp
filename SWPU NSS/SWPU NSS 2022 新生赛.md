@@ -1722,11 +1722,11 @@ PF6XKEQJDUPC5/DAY6Z6B2VC89DZN8$7D657BX6HTA%JCA3DLJB OCMKE:3FMDDTG8FEEKA7:$E:R8FK
 
 此处开始尝试用basecrack省点事了
 
-![All in base](https://nssctf.wdf.ink/img/zack/All in base.jpg)
+![All in base](https://nssctf.wdf.ink/img/zack/All_in_base.jpg)
 
 然后动用了我最极限的搜索能力终于找到一个工具 ![basee](https://nssctf.wdf.ink/img/zack/basee.jpg)能解开这个
 
-![All in base_flag](https://nssctf.wdf.ink/img/zack/All in base_flag.jpg)
+![All in base_flag](https://nssctf.wdf.ink/img/zack/All_in_base_flag.jpg)
 
 （题出的很好，孩子很喜欢，百草味的性能很好，已经在学编程了，只不过麦丽素的日语课有点难，电动牙刷很好吃，原画插画超棒的，化妆品抹在显卡上很滋润，三只松鼠去污能力强，麦片泡耳机很舒爽，螺蛳粉用来拧螺丝真的严丝合缝，敏感肌括约肌技嘉也能适应，联想的蓝牙支付很方便，二维码配饭很香，理财产品已经让我瘦了十斤了会接着用的，手机的味道也很酱香，交友软件也不错养殖教程都很全面，建模出来的小姐姐运行速度很快没有卡顿很流畅，总之没有下次了）
 
@@ -1736,7 +1736,7 @@ PF6XKEQJDUPC5/DAY6Z6B2VC89DZN8$7D657BX6HTA%JCA3DLJB OCMKE:3FMDDTG8FEEKA7:$E:R8FK
 
 随便找到一个RSA解密网站
 
-![Welcome to...](https://nssctf.wdf.ink/img/zack/Welcome to....jpg)
+![Welcome to...](https://nssctf.wdf.ink/img/zack/Welcome_to....jpg)
 
 
 
@@ -2153,11 +2153,11 @@ CTFs are one of my favorite hobbies. I love the feeling of solving a particularl
 
 直接丢进ps里
 
-![coding in time_start](https://nssctf.wdf.ink/img/zack/coding in time_start.jpg)
+![coding in time_start](https://nssctf.wdf.ink/img/zack/coding_in_time_start.jpg)
 
 发现图片刚好9帧，每一帧都不一样，说明就是一张二维码被拆成了9份，那就先把他合并好
 
-![coding in time_part_1](https://nssctf.wdf.ink/img/zack/coding in time_part_1.jpg)
+![coding in time_part_1](https://nssctf.wdf.ink/img/zack/coding_in_time_part_1.jpg)
 
 扫描结果如下
 
@@ -2167,7 +2167,7 @@ NSSCTF{114f75b5-ef1c-4ece-b062-8852
 
 再结合题目**Coding in time**的暗示，发现每一帧的时间都不一样，大胆猜测，这是**ascii**码
 
-![coding in time_part_2](https://nssctf.wdf.ink/img/zack/coding in time_part_2.jpg)
+![coding in time_part_2](https://nssctf.wdf.ink/img/zack/coding_in_time_part_2.jpg)
 
 这里用c++转一下
 
@@ -2184,7 +2184,7 @@ int main(){
 
 得到第二段flag
 
-![coding in time_part_2_flag](https://nssctf.wdf.ink/img/zack/coding in time_part_2_flag.jpg)
+![coding in time_part_2_flag](https://nssctf.wdf.ink/img/zack/coding_in_time_part_2_flag.jpg)
 
 ```
 cfbdde7f}
