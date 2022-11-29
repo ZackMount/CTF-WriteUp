@@ -171,7 +171,7 @@ if (isset($_GET['file'])) {
 ?file=php://filter/resource=flag.php
 ```
 
-![ez_php_fake_flag](https://nssctf.wdf.ink/img/zack/ez_php_fake_flag.jpg)
+![ez_php_fake_php](https://nssctf.wdf.ink/img/zack/ez_php_fake_php.jpg)
 
 提示**real_flag_is_in_'flag'**
 
