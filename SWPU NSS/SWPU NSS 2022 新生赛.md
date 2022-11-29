@@ -183,7 +183,7 @@ if (isset($_GET['file'])) {
 
 得到flag
 
-![ez_php_flag](https://nssctf.wdf.ink/img/zack/ez_php_flag.jpg)
+![ez_php_flag](https://nssctf.wdf.ink/img/zack/ez_php_flaag.jpg)
 
 **非预期解**
 
